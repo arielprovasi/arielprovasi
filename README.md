@@ -4,51 +4,54 @@
 
 </div>
 
-## 👋 Olá! Eu sou o Ariel
+## 👋 Olá, eu sou o Ariel
 
-🧘‍♂️ Dev front-end em formação, espiritualista, movido a café e curiosidade.
+💻 Desenvolvedor em formação, aprendendo na prática com projetos reais.  
+Tenho experiência com **React.js** e **Next.js**, e atualmente me aventuro em **PHP** e **Laravel**.
 
-🎯 Estudando diariamente para transformar paixão por tecnologia em profissão.  
-
-🌱 Atualmente focado em:  
-- HTML, CSS e JavaScript  
-- React.js  
-- Boas práticas de acessibilidade e semântica web  
-
-🎧 Fã de música eletrônica e futuro DJ nas horas vagas. Porque código é ritmo, baby.  
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielprovasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielprovasi&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+🚀 Meu foco é construir aplicações funcionais e acessíveis, sempre evoluindo a cada projeto.
 
 ---
 
 ### 🛠️ Tecnologias que estou usando:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ariel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ariel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div align="center"><br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ts,tailwind,react,nextjs)](https://skillicons.dev)
+
 </div>
+<br>
 
 ---
 
-### 📲 Onde me encontrar:
-
-<div> 
-  <a href="https://instagram.com/arielprovasi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arielprovasi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:dev@arielprovasi.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+<div align="center" style="display:flex;justify-content:center;gap:1rem;align-items:center;flex-wrap:wrap;">
+  <img height="180em" alt="Linguagens mais usadas" title="Linguagens mais usadas" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielprovasi&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="180em" alt="Estatísticas do GitHub" title="Estatísticas do GitHub" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=arielprovasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
+<br>
 
 ---
+
+### 📬 Vamos nos conectar?
+
+<div align="center"><br>
+  <a href="https://www.linkedin.com/in/arielprovasi" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://arielprovasi.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dev@arielprovasi.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/arielprovasi" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 <div align="center">
 
-✨ “Código com alma, música com intenção, vida com presença.”  
 ![Ariel Provasi banner](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
 
 </div>
