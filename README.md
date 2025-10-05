@@ -35,7 +35,7 @@ Tenho experiência com **React.js** e **Next.js**, e atualmente me aventuro em *
 
 ### 📬 Vamos nos conectar?
 
-<div align="center"><br>
+<p align="center"><br>
   <a href="https://www.linkedin.com/in/arielprovasi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -48,7 +48,7 @@ Tenho experiência com **React.js** e **Next.js**, e atualmente me aventuro em *
   <a href="https://instagram.com/arielprovasi" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 <div align="center">
 
