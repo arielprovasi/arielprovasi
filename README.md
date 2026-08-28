@@ -32,9 +32,9 @@
 
 ## `01 // IDENTIDADE`
 
-### `> whoami`
-
 </div>
+
+### `> whoami`
 
 ```yaml
 name: Ariel Provasi
@@ -70,6 +70,8 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 
 <div align="center">
 
+<br>
+
 ### `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c&theme=dark" alt="Languages"/>
@@ -92,13 +94,15 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Tools"/>
 
-<br>
+<br><br>
 
 </div>
 
 <div align="center">
 
 ## `03 // AMBIENTE DE DESENVOLVIMENTO`
+
+<br>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
@@ -123,6 +127,8 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<br>
+
 </div>
 
 <div align="center">
@@ -132,6 +138,8 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 </div>
 
 <div align="center">
+
+<br>
 
 <a href="https://ctfuracao.com.br/">
 <img src="https://img.shields.io/badge/CT_Furacão-LIVE-D58860?style=for-the-badge&labelColor=15152A"/>
@@ -206,6 +214,8 @@ FOCUS:
 
 </div>
 
+<br>
+
 <div align="center">
 
 ## `05 // OBJETIVOS ATUAIS`
@@ -249,9 +259,9 @@ FOCUS:
 
 <img height="180em" src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-top-langs.svg" alt="Top Languages"/>
 
-<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=arielprovasi&theme=transparent&hide_border=true&background=15152A&stroke=D5886030&ring=D58860&fire=358793&currStreakLabel=D58860&sideNums=C8C5D8&currStreakNum=D58860&sideLabels=C8C5D8&dates=C8C5D8&disable_animations=true)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-streak.svg" alt="GitHub Streak"/>
+<br>
 
 </div>
 
@@ -259,7 +269,11 @@ FOCUS:
 
 ## `07 // MATRIZ DE ATIVIDADE`
 
+<br>
+
 <img src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-activity-graph.svg" alt="GitHub Activity Graph"/>
+
+<br>
 
 </div>
 
@@ -267,7 +281,11 @@ FOCUS:
 
 ## `08 // CONQUISTAS`
 
+<br>
+
 <img src="https://github-profile-trophy-rosy.vercel.app/?username=arielprovasi&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+
+<br>
 
 </div>
 
