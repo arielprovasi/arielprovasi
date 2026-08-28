@@ -40,6 +40,13 @@ jobs:
           output_path: dist/github-activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats card
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true&background=15152A&stroke=D5886030&ring=D58860&fire=358793&currStreakLabel=D58860&sideNums=C8C5D8&currStreakNum=D58860&sideLabels=C8C5D8&dates=C8C5D8&disable_animations=true
+          path: dist/github-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:

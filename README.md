@@ -251,7 +251,7 @@ FOCUS:
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arielprovasi&theme=transparent&hide_border=true&background=15152A&stroke=D5886030&ring=D58860&fire=358793&currStreakLabel=D58860&sideNums=C8C5D8&currStreakNum=D58860&sideLabels=C8C5D8&dates=C8C5D8" alt="GitHub Streak"/>
+<img src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-streak.svg" alt="GitHub Streak"/>
 
 </div>
 
@@ -305,9 +305,9 @@ FOCUS:
 <img src="https://img.shields.io/badge/Email-15152A?style=for-the-badge&logo=gmail&logoColor=D58860"/>
 </a>
 
-<br>
-
 </div>
+
+##
 
 <div align="center">
 
