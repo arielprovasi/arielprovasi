@@ -72,7 +72,7 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,php,c&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,c&theme=dark" alt="Languages"/>
 
 <br>
 
@@ -100,8 +100,6 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 
 ## `03 // AMBIENTE DE DESENVOLVIMENTO`
 
-</div>
-
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
 │  ARIEL_OS // DEVELOPMENT ENVIRONMENT                    v2026.08 │
@@ -125,6 +123,8 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 <div align="center">
 
 ## `04 // PROJETOS EM DESTAQUE`
@@ -140,8 +140,6 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 <a href="https://lays-sonego.vercel.app/">
 <img src="https://img.shields.io/badge/Lays_Sonego-LIVE-358793?style=for-the-badge&labelColor=15152A"/>
 </a>
-
-</div>
 
 <br>
 
@@ -198,6 +196,8 @@ FOCUS:
 </tr>
 </table>
 
+</div>
+
 <div align="center">
 
 <a href="https://github.com/arielprovasi?tab=repositories">
@@ -245,13 +245,13 @@ FOCUS:
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielprovasi&show_icons=true&hide_border=true&theme=transparent&bg_color=15152A&title_color=D58860&text_color=C8C5D8&icon_color=9FA1C3&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-stats.svg" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielprovasi&layout=compact&hide_border=true&theme=transparent&bg_color=15152A&title_color=D58860&text_color=C8C5D8&langs_count=8"/>
+<img height="180em" src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-top-langs.svg" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arielprovasi&theme=transparent&hide_border=true&background=15152A&stroke=D5886030&ring=D58860&fire=358793&currStreakLabel=D58860&sideNums=C8C5D8&currStreakNum=D58860&sideLabels=C8C5D8&dates=C8C5D8"/>
+<img src="https://streak-stats.demolab.com?user=arielprovasi&theme=transparent&hide_border=true&background=15152A&stroke=D5886030&ring=D58860&fire=358793&currStreakLabel=D58860&sideNums=C8C5D8&currStreakNum=D58860&sideLabels=C8C5D8&dates=C8C5D8" alt="GitHub Streak"/>
 
 </div>
 
@@ -259,7 +259,7 @@ FOCUS:
 
 ## `07 // MATRIZ DE ATIVIDADE`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arielprovasi&theme=react-dark&hide_border=true&bg_color=15152A&color=D58860&line=358793&point=F1EEE2&area=true"/>
+<img src="https://raw.githubusercontent.com/arielprovasi/arielprovasi/output/github-activity-graph.svg" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -267,7 +267,7 @@ FOCUS:
 
 ## `08 // CONQUISTAS`
 
-<img src="https://github-profile-trophy.vercel.app/?username=arielprovasi&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy-rosy.vercel.app/?username=arielprovasi&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -322,8 +322,6 @@ FOCUS:
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:358793,50:D58860,100:9FA1C3&height=100&section=footer"/>
 
