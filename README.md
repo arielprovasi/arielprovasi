@@ -9,7 +9,7 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║              A R I E L   P R O V A S I                       ║
+║                  A R I E L   P R O V A S I                   ║
 ║                                                              ║
 ║   FRONT-END  ·  FULL-STACK  ·  CREATIVE DEV  ·  UI ENG       ║
 ║                                                              ║
@@ -141,16 +141,6 @@ Busco transformar ideias em produtos digitais **bonitos, rápidos, responsivos e
 
 <br>
 
-<a href="https://ctfuracao.com.br/">
-<img src="https://img.shields.io/badge/CT_Furacão-LIVE-D58860?style=for-the-badge&labelColor=15152A"/>
-</a>
-
-<a href="https://lays-sonego.vercel.app/">
-<img src="https://img.shields.io/badge/Lays_Sonego-LIVE-358793?style=for-the-badge&labelColor=15152A"/>
-</a>
-
-<br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -207,6 +197,15 @@ FOCUS:
 </div>
 
 <div align="center">
+<a href="https://ctfuracao.com.br/">
+<img src="https://img.shields.io/badge/CT_Furacão-LIVE-D58860?style=for-the-badge&labelColor=15152A"/>
+</a>
+
+<a href="https://lays-sonego.vercel.app/">
+<img src="https://img.shields.io/badge/Lays_Sonego-LIVE-358793?style=for-the-badge&labelColor=15152A"/>
+</a>
+
+<br>
 
 <a href="https://github.com/arielprovasi?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_ALL_REPOS-15152A?style=for-the-badge&logo=github&logoColor=D58860&labelColor=15152A&color=D58860"/>
